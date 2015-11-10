@@ -1,0 +1,51 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-10376
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=0 insize=990 outsize=1576 kw= pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=990 outsize=103 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3028 outsize=509 kw=LEAP_FORMAT_RGB pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3028 outsize=743 kw=LEAP_FORMAT_RGB pd= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3023 outsize=509 kw=LEAP_FORMAT_RGB pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3023 outsize=2316 kw=LEAP_FORMAT_RGB pd= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=786 outsize=1885 kw=LEAP_FORMAT_IR pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=786 outsize=1885 kw=LEAP_FORMAT_RGB pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=786 outsize=2706 kw=LEAP_FORMAT_IR pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=786 outsize=3216 kw=LEAP_FORMAT_RGB pd= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=783 outsize=1885 kw=LEAP_FORMAT_IR pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=783 outsize=1885 kw=LEAP_FORMAT_RGB pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=783 outsize=2706 kw=LEAP_FORMAT_IR pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=783 outsize=3216 kw=LEAP_FORMAT_RGB pd= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=952 outsize=1828 kw= pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=952 outsize=1154 kw= pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1057 outsize=1274 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1057 outsize=851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=955 outsize=1885 kw=LEAP_FORMAT_IR pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=955 outsize=1885 kw=LEAP_FORMAT_RGB pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=955 outsize=3445 kw=LEAP_FORMAT_IR pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=955 outsize=3963 kw=LEAP_FORMAT_RGB pd= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

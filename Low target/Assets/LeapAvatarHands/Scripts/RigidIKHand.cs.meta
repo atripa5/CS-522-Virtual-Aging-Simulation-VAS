@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 134c1748788ab1546b312ca2cb9cdded
+labels:
+- leap
+- motion
+- leapmotion
+- avatar
+- hand
+- hands
+- character
+- inversekinematics
+- ik
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
