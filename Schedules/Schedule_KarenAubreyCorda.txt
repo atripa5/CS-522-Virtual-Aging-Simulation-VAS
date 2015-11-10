@@ -1,0 +1,9 @@
+
+Schedule and deliverable:
+    
+      - Create and configure user avatars, at least one -- Fri 10/30 by 12 am (estimate: 5 hrs)
+      - Configure leap motion hand controller with the avatar -- Sat 10/31 by 9 pm (estimate: 4 hrs)
+      - Configure Kinect with the avatar -- Sun 11/01 by 5 pm (estimate: 4 hrs)
+      - Design slider bars to vary the user's perception -- Mon 11/02 by 4 pm (estimate: 3 hrs)
+      - Working with Abhishek on the change in auditory perception -- Wed 11/04 by 7 pm (estimate: 6 hrs)
+      - Working with Abhishek on the change in visual perception -- Fri 11/06 by 7 pm (estimate: 6 hrs) 
