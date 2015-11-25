@@ -1,0 +1,150 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.459 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\test_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b68 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.695878 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 633.
+Total: 0.984130 ms (FindLiveObjects: 0.080925 ms CreateObjectMapping: 0.269224 ms MarkObjects: 0.607137 ms  DeleteObjects: 0.025264 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497789 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 633.
+Total: 0.413311 ms (FindLiveObjects: 0.046186 ms CreateObjectMapping: 0.048555 ms MarkObjects: 0.306331 ms  DeleteObjects: 0.011447 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.975051 ms
+
+Unloading 243 unused Assets to reduce memory usage. Loaded Objects now: 11796.
+Total: 4.018237 ms (FindLiveObjects: 0.782014 ms CreateObjectMapping: 1.886546 ms MarkObjects: 0.827017 ms  DeleteObjects: 0.522264 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.856781 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11796.
+Total: 1.337044 ms (FindLiveObjects: 0.523053 ms CreateObjectMapping: 0.194220 ms MarkObjects: 0.597268 ms  DeleteObjects: 0.022106 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.181509 ms
+IKLeapHandController:: INFO you've set a left/right graphics hand model, but there's no point, the script will override it. You only need to set the Avatar Left Hand and Avatar Right Hand fields.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 1459 unused Assets to reduce memory usage. Loaded Objects now: 1349.
+Total: 10.902415 ms (FindLiveObjects: 0.135007 ms CreateObjectMapping: 0.193431 ms MarkObjects: 0.326464 ms  DeleteObjects: 10.247118 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.902415 ms
+
+Unloading 208 unused Assets to reduce memory usage. Loaded Objects now: 763.
+Total: 5.309884 ms (FindLiveObjects: 0.066319 ms CreateObjectMapping: 0.094741 ms MarkObjects: 0.433049 ms  DeleteObjects: 4.713405 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.973867 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 678.
+Total: 0.504500 ms (FindLiveObjects: 0.064345 ms CreateObjectMapping: 0.050134 ms MarkObjects: 0.375809 ms  DeleteObjects: 0.013027 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.682141 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 678.
+Total: 0.411732 ms (FindLiveObjects: 0.049344 ms CreateObjectMapping: 0.069872 ms MarkObjects: 0.280672 ms  DeleteObjects: 0.011447 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.710168 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 763.
+Total: 0.510026 ms (FindLiveObjects: 0.082109 ms CreateObjectMapping: 0.059608 ms MarkObjects: 0.350939 ms  DeleteObjects: 0.016185 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613453 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 763.
+Total: 0.456734 ms (FindLiveObjects: 0.048555 ms CreateObjectMapping: 0.031975 ms MarkObjects: 0.365940 ms  DeleteObjects: 0.009474 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.956497 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 678.
+Total: 0.743723 ms (FindLiveObjects: 0.147639 ms CreateObjectMapping: 0.105795 ms MarkObjects: 0.469761 ms  DeleteObjects: 0.017369 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.650165 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 678.
+Total: 0.491078 ms (FindLiveObjects: 0.052897 ms CreateObjectMapping: 0.050134 ms MarkObjects: 0.375414 ms  DeleteObjects: 0.011447 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.789909 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 763.
+Total: 1.550607 ms (FindLiveObjects: 0.106979 ms CreateObjectMapping: 0.176061 ms MarkObjects: 1.249013 ms  DeleteObjects: 0.016974 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.685693 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 763.
+Total: 0.632796 ms (FindLiveObjects: 0.056845 ms CreateObjectMapping: 0.064345 ms MarkObjects: 0.446865 ms  DeleteObjects: 0.063950 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.075319 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 853.
+Total: 0.721616 ms (FindLiveObjects: 0.077767 ms CreateObjectMapping: 0.076582 ms MarkObjects: 0.547528 ms  DeleteObjects: 0.018553 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.047291 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 853.
+Total: 0.433049 ms (FindLiveObjects: 0.062371 ms CreateObjectMapping: 0.035133 ms MarkObjects: 0.323701 ms  DeleteObjects: 0.011053 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.242302 ms
+IKLeapHandController:: INFO you've set a left/right graphics hand model, but there's no point, the script will override it. You only need to set the Avatar Left Hand and Avatar Right Hand fields.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 1364.
+Total: 1.047291 ms (FindLiveObjects: 0.120401 ms CreateObjectMapping: 0.101847 ms MarkObjects: 0.448444 ms  DeleteObjects: 0.376204 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.077688 ms
+IKLeapHandController:: INFO you've set a left/right graphics hand model, but there's no point, the script will override it. You only need to set the Avatar Left Hand and Avatar Right Hand fields.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1364.
+Total: 0.543975 ms (FindLiveObjects: 0.105400 ms CreateObjectMapping: 0.051318 ms MarkObjects: 0.374624 ms  DeleteObjects: 0.011447 ms)
+

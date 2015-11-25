@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/LeapMotion+OVR/Scenes/ImageHandsTouchCubes.unity
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+  - enabled: 1
+    path: Assets/Scenes/Inst.unity
+  - enabled: 1
+    path: Assets/Scenes/Confirm.unity
+  - enabled: 1
+    path: Assets/Scenes/Tut.unity
+  - enabled: 1
+    path: Assets/Scenes/Main 2.unity
+  - enabled: 1
+    path: Assets/Scenes/VisMenu.unity
+  - enabled: 1
+    path: Assets/Scenes/AMDMenu.unity
+  - enabled: 1
+    path: Assets/Scenes/Cataract.unity
+  - enabled: 1
+    path: Assets/Scenes/Confirm1.unity
+  - enabled: 1
+    path: Assets/Scenes/Severe.unity
+  - enabled: 1
+    path: Assets/Scenes/Moderate.unity
+  - enabled: 1
+    path: Assets/Scenes/SevereGlaucoma.unity
+  - enabled: 1
+    path: Assets/Scenes/MildGlaucoma.unity
+  - enabled: 1
+    path: Assets/Scenes/ModerateGlaucoma.unity
+  - enabled: 1
+    path: Assets/Scenes/Glaucoma.unity
+  - enabled: 1
+    path: Assets/Scenes/Mild.unity
+  - enabled: 1
+    path: Assets/Scenes/Confirm3.unity
+  - enabled: 1
+    path: Assets/Scenes/Confirm2.unity
