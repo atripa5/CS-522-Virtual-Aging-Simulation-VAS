@@ -1,0 +1,97 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.051 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Karen\Documents\Alpha\ATest\BetaRelease_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 920 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.554093 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.372651 ms (FindLiveObjects: 0.027633 ms CreateObjectMapping: 0.037502 ms MarkObjects: 0.290936 ms  DeleteObjects: 0.016185 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.418761 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.318964 ms (FindLiveObjects: 0.033159 ms CreateObjectMapping: 0.026843 ms MarkObjects: 0.247513 ms  DeleteObjects: 0.009868 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497790 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.316596 ms (FindLiveObjects: 0.029212 ms CreateObjectMapping: 0.024475 ms MarkObjects: 0.252250 ms  DeleteObjects: 0.009868 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ExitScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.503711 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 546.
+Total: 0.297647 ms (FindLiveObjects: 0.035923 ms CreateObjectMapping: 0.026843 ms MarkObjects: 0.218696 ms  DeleteObjects: 0.015395 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.467711 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 1.541530 ms (FindLiveObjects: 0.082899 ms CreateObjectMapping: 0.114874 ms MarkObjects: 0.596084 ms  DeleteObjects: 0.744908 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ExitScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.719249 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 584.
+Total: 0.346992 ms (FindLiveObjects: 0.033159 ms CreateObjectMapping: 0.045791 ms MarkObjects: 0.251461 ms  DeleteObjects: 0.015790 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.980184 ms
+
+Unloading 236 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 1.787465 ms (FindLiveObjects: 0.112900 ms CreateObjectMapping: 0.178430 ms MarkObjects: 0.801753 ms  DeleteObjects: 0.692011 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ExitScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.553056 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 642.
+Total: 0.417259 ms (FindLiveObjects: 0.050923 ms CreateObjectMapping: 0.046581 ms MarkObjects: 0.304753 ms  DeleteObjects: 0.014211 ms)
+
